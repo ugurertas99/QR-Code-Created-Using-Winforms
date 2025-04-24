@@ -1,0 +1,36 @@
+C:\Users\icoba\source\repos\20250302\Ornek1\Ornek1\bin\Debug\Ornek1.exe.config
+C:\Users\icoba\source\repos\20250302\Ornek1\Ornek1\bin\Debug\Ornek1.exe
+C:\Users\icoba\source\repos\20250302\Ornek1\Ornek1\bin\Debug\Ornek1.pdb
+C:\Users\icoba\source\repos\20250302\Ornek1\Ornek1\bin\Debug\QRCoder.dll
+C:\Users\icoba\source\repos\20250302\Ornek1\Ornek1\obj\Debug\Ornek1.csproj.AssemblyReference.cache
+C:\Users\icoba\source\repos\20250302\Ornek1\Ornek1\obj\Debug\Ornek1.Form1.resources
+C:\Users\icoba\source\repos\20250302\Ornek1\Ornek1\obj\Debug\Ornek1.Properties.Resources.resources
+C:\Users\icoba\source\repos\20250302\Ornek1\Ornek1\obj\Debug\Ornek1.csproj.GenerateResource.cache
+C:\Users\icoba\source\repos\20250302\Ornek1\Ornek1\obj\Debug\Ornek1.csproj.CoreCompileInputs.cache
+C:\Users\icoba\source\repos\20250302\Ornek1\Ornek1\obj\Debug\Ornek1.csproj.Up2Date
+C:\Users\icoba\source\repos\20250302\Ornek1\Ornek1\obj\Debug\Ornek1.exe
+C:\Users\icoba\source\repos\20250302\Ornek1\Ornek1\obj\Debug\Ornek1.pdb
+C:\Users\songule3423\Desktop\20250302\Ornek1\Ornek1\bin\Debug\Ornek1.exe.config
+C:\Users\songule3423\Desktop\20250302\Ornek1\Ornek1\bin\Debug\Ornek1.exe
+C:\Users\songule3423\Desktop\20250302\Ornek1\Ornek1\bin\Debug\Ornek1.pdb
+C:\Users\songule3423\Desktop\20250302\Ornek1\Ornek1\bin\Debug\QRCoder.dll
+C:\Users\songule3423\Desktop\20250302\Ornek1\Ornek1\obj\Debug\Ornek1.csproj.AssemblyReference.cache
+C:\Users\songule3423\Desktop\20250302\Ornek1\Ornek1\obj\Debug\Ornek1.Form1.resources
+C:\Users\songule3423\Desktop\20250302\Ornek1\Ornek1\obj\Debug\Ornek1.Properties.Resources.resources
+C:\Users\songule3423\Desktop\20250302\Ornek1\Ornek1\obj\Debug\Ornek1.csproj.GenerateResource.cache
+C:\Users\songule3423\Desktop\20250302\Ornek1\Ornek1\obj\Debug\Ornek1.csproj.CoreCompileInputs.cache
+C:\Users\songule3423\Desktop\20250302\Ornek1\Ornek1\obj\Debug\Ornek1.csproj.Up2Date
+C:\Users\songule3423\Desktop\20250302\Ornek1\Ornek1\obj\Debug\Ornek1.exe
+C:\Users\songule3423\Desktop\20250302\Ornek1\Ornek1\obj\Debug\Ornek1.pdb
+C:\Users\songule3423\Desktop\Yazılım Pratik Notları\20250302\Ornek1\Ornek1\bin\Debug\Ornek1.exe.config
+C:\Users\songule3423\Desktop\Yazılım Pratik Notları\20250302\Ornek1\Ornek1\bin\Debug\Ornek1.exe
+C:\Users\songule3423\Desktop\Yazılım Pratik Notları\20250302\Ornek1\Ornek1\bin\Debug\Ornek1.pdb
+C:\Users\songule3423\Desktop\Yazılım Pratik Notları\20250302\Ornek1\Ornek1\bin\Debug\QRCoder.dll
+C:\Users\songule3423\Desktop\Yazılım Pratik Notları\20250302\Ornek1\Ornek1\obj\Debug\Ornek1.csproj.AssemblyReference.cache
+C:\Users\songule3423\Desktop\Yazılım Pratik Notları\20250302\Ornek1\Ornek1\obj\Debug\Ornek1.Form1.resources
+C:\Users\songule3423\Desktop\Yazılım Pratik Notları\20250302\Ornek1\Ornek1\obj\Debug\Ornek1.Properties.Resources.resources
+C:\Users\songule3423\Desktop\Yazılım Pratik Notları\20250302\Ornek1\Ornek1\obj\Debug\Ornek1.csproj.GenerateResource.cache
+C:\Users\songule3423\Desktop\Yazılım Pratik Notları\20250302\Ornek1\Ornek1\obj\Debug\Ornek1.csproj.CoreCompileInputs.cache
+C:\Users\songule3423\Desktop\Yazılım Pratik Notları\20250302\Ornek1\Ornek1\obj\Debug\Ornek1.csproj.Up2Date
+C:\Users\songule3423\Desktop\Yazılım Pratik Notları\20250302\Ornek1\Ornek1\obj\Debug\Ornek1.exe
+C:\Users\songule3423\Desktop\Yazılım Pratik Notları\20250302\Ornek1\Ornek1\obj\Debug\Ornek1.pdb
